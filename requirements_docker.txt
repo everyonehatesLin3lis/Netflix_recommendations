@@ -1,0 +1,6 @@
+Flask
+pandas
+lightgbm
+confluent_kafka
+pyarrow
+fastparquet
