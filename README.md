@@ -93,7 +93,7 @@ LightGBM was chosen for its efficiency and high performance in handling large da
 
 - **Cross-validated Comparison of Surprise Algorithms**:
 
-  ![Comparison of Algorithms](./Pictures/Screenshot%202024-07-21%20172117.png)
+  ![Comparison of Algorithms](./Pictures/Screenshot%202024-07-21%20170609.png)
 
   This picture from the job by [MorrisB on Kaggle](https://www.kaggle.com/code/morrisb/how-to-recommend-anything-deep-recommender) shows the relatively poor performance of various surprise algorithms in terms of RMSE and MAE. Due to this, we chose a different approach with LightGBM, focusing on better feature engineering to improve our model's accuracy and relevance.
 
