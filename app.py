@@ -9,7 +9,7 @@ base_dir = os.path.join(os.getcwd())
 
 model_file = os.path.join(base_dir, 'Model', 'lightgbm_user_movie_recommendation.txt')
 parquet_file = os.path.join(base_dir, 'Data', 'Data_for_recommendations.parquet')
-csv_file = os.path.join(base_dir, 'Data', 'filtered_movie_titles.csv')
+csv_file = os.path.join(base_dir, 'Data', 'movie_titles.csv')
 
 model = lgb.Booster(model_file=model_file)
 

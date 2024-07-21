@@ -185,3 +185,6 @@ fastparquet
 ## In summary,
 
 the project highlights the importance of algorithm selection and feature engineering in developing an effective recommendation system. The LightGBM model, supported by well-crafted features, demonstrated excellent predictive capabilities, making it a valuable tool for movie recommendations. The use of Docker further facilitates easy deployment and scalability of the application.
+
+Example of output:
+![Output](./Pictures/Screenshot%202024-07-21%20183026.png)
